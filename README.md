@@ -1,2 +1,2 @@
-# CS_Year_1
+# CS_Hw
 My first code ever written
